@@ -7,3 +7,6 @@ img.show()
 
 #### commenti
 
+print("ciao")
+print("fbffai")
+print("sss")
