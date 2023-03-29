@@ -5,3 +5,5 @@ img=Image.open("download.jpg")
 print("bye")
 img.show()
 
+#### commenti
+
